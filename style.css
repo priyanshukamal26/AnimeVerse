@@ -9,8 +9,8 @@
 }
 
 body {
-  /* background: black; */
-  background-image: url('Spectral20-%2050.jpg');
+  background: black;
+/*   background-image: url('Spectral20-%2050.jpg'); */
   color: #ffffff;
   line-height: 1.6;
   min-height: 100vh;
